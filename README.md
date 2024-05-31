@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Zahoor Ahmed</h1>
+<h3 align="center">A passionate frontend developer and Ui/Ux Designer from Pakistan</h3>
+<img align="right" alt="Coding & Designing" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.tenor.com%2F8Eyl2xr209oAAAAM%2Fdead.gif&tbnid=ujev6VobY20tqM&vet=10CBcQxiAoBmoXChMI0PHDwvS3hgMVAAAAAB0AAAAAEA4..i&imgrefurl=https%3A%2F%2Ftenor.com%2Fsearch%2Fdeath-animation-gifs&docid=k4bJJ0Oq6nzydM&w=220&h=220&itg=1&q=animated%20coding%20and%20design%20gifs&ved=0CBcQxiAoBmoXChMI0PHDwvS3hgMVAAAAAB0AAAAAEA4"
 
-<!--
-**ZahoorAhmed008/ZahoorAhmed008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zahoorahmed008&label=Profile%20views&color=0e75b6&style=flat" alt="zahoorahmed008" /> </p>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Currently expanding my expertise in HTML, CSS, JavaScript and in Designing Field Ui/Ux Designer and Grapgic Designer.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at [https://www.behance.net/zahoorahmed22](https://www.behance.net/zahoorahmed22)
+
+- 💬 Ask me about **Let's discuss anything related to HTML, CSS, JavaScript and in Designing Field Ui/Ux Designing and Grapgic Designing.**
+
+- 📫 How to reach me **za0389188@gmail.com**
+
+- 📄 Know about my experiences [Learn more about my professional experiences on https://www.linkedin.com/in/zahoor-ahmed-410944232/](Learn more about my professional experiences on https://www.linkedin.com/in/zahoor-ahmed-410944232/)
+
+- ⚡ Fun fact **Fun fact: I have a keen interest in songs.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/zahoor-ahmed-410944232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zahoor-ahmed-410944232/" height="30" width="40" /></a>
+<a href="https://www.behance.net/https://www.behance.net/zahoorahmed22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/zahoorahmed22" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zahoorahmed008&show_icons=true&locale=en&layout=compact" alt="zahoorahmed008" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zahoorahmed008&show_icons=true&locale=en" alt="zahoorahmed008" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zahoorahmed008&" alt="zahoorahmed008" /></p>
