@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zahoor Ahmed</h1>
 <h3 align="center">A passionate frontend developer and Ui/Ux Designer from Pakistan</h3>
-<img align="right" alt="Coding & Designing" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.tenor.com%2F8Eyl2xr209oAAAAM%2Fdead.gif&tbnid=ujev6VobY20tqM&vet=10CBcQxiAoBmoXChMI0PHDwvS3hgMVAAAAAB0AAAAAEA4..i&imgrefurl=https%3A%2F%2Ftenor.com%2Fsearch%2Fdeath-animation-gifs&docid=k4bJJ0Oq6nzydM&w=220&h=220&itg=1&q=animated%20coding%20and%20design%20gifs&ved=0CBcQxiAoBmoXChMI0PHDwvS3hgMVAAAAAB0AAAAAEA4"
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahoorahmed008&label=Profile%20views&color=0e75b6&style=flat" alt="zahoorahmed008" /> </p>
 
