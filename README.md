@@ -12,13 +12,13 @@
 
 - 📫 How to reach me **za0389188@gmail.com**
 
-- 📄 Know about my experiences [Learn more about my professional experiences on https://www.linkedin.com/in/zahoor-ahmed-410944232/](Learn more about my professional experiences on https://www.linkedin.com/in/zahoor-ahmed-410944232/)
+- 📄 Know about my experiences [Learn more about my professional experiences on https://www.linkedin.com/in/zahoor-ahmed-410944232/]
 
 - ⚡ Fun fact **Fun fact: I have a keen interest in songs.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/zahoor-ahmed-410944232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zahoor-ahmed-410944232/" height="30" width="40" />Linkedln</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/zahoor-ahmed-410944232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zahoor-ahmed-410944232/" height="30" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/zahoorahmed22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/zahoorahmed22" height="30" width="40" /></a>
 </p>
 
