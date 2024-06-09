@@ -2,17 +2,19 @@
 <h3 align="center">A passionate frontend developer and Ui/Ux Designer from Pakistan</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zahoorahmed008&label=Profile%20views&color=0e75b6&style=flat" alt="zahoorahmed008" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zahoorahmed008&label=Profile%20views&color=0e75b6&style=flat" alt="zahoorahmed008" /></p>
 
 - 🌱 I’m currently learning **Currently expanding my expertise in HTML, CSS, JavaScript and in Designing Field Ui/Ux Designer and Grapgic Designer.**
 
-- 👨‍💻 All of my projects are available at [https://www.behance.net/zahoorahmed22](https://www.behance.net/zahoorahmed22)
+
+
+- 👨‍💻  All of my projects are available at <a href="https://www.behance.net/zahoorahmed22/projects">Behance Projects</a>
 
 - 💬 Ask me about **Let's discuss anything related to HTML, CSS, JavaScript and in Designing Field Ui/Ux Designing and Grapgic Designing.**
 
 - 📫 How to reach me **za0389188@gmail.com**
 
-- 📄 Know about my experiences [Learn more about my professional experiences on https://www.linkedin.com/in/zahoor-ahmed-410944232/]
+- 📄 experiences Learn more about my professional experiences <a href="https://www.linkedin.com/in/zahoor-ahmed-410944232/">LinkedIn Profile</a>
 
 - ⚡ Fun fact **Fun fact: I have a keen interest in songs.**
 
